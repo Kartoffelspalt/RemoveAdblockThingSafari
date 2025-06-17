@@ -1,3 +1,5 @@
+# This is the Userscripts Version of Remove Adblock Version. This runs well with the Userscripts Version for Safari. For now it works. Based on Version 5.8.
+
 # Note: It was an fun runing, making, mataining this project and having a fun battle against youtube to the point were youtube was aware of this project and activity taking measures against it and then we would find ways around it. But I dont have the time to maitain and run this project anymore.
 
 If you want to block ads on youtube without pop up just use like Ublock origin.
