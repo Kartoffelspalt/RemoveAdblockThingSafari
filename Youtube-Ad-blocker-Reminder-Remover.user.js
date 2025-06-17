@@ -3,7 +3,7 @@
 // @description Removes the Adblock Thing
 // @match       https://www.youtube.com/*
 // @author      CodeSpire-Solutions (P.B)
-// @version     1.0 (Based on 5.0)
+// @version     1.0 (Based on 5.8)
 // ==/UserScript==
 
 (function() {
